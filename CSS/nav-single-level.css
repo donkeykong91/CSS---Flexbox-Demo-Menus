@@ -1,1 +1,8 @@
 /* Styles for Single Level Menu */
+
+@media screen and (min-width: 30em) {
+  .single-nav ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
