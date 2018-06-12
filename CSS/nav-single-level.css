@@ -6,4 +6,8 @@
     justify-content: space-between;
     flex-wrap: wrap;
   }
+
+  .single-nav li {
+    flex: 1 0 auto;
+  }
 }
